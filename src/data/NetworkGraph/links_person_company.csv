@@ -1,0 +1,479 @@
+person,company,title,type
+p:1392,c:1680,"Chairman, CEO and Product Architect",Employee - Technology
+p:201650,c:1680,"Chief Information Officer",Senior Management
+p:1392,c:12352,"Chairman and Principal Shareholder",Investor/Board of Director
+p:1392,c:33987,"CEO and Chief Designer",Senior Management
+p:415,c:333,"Co-founder / CTO",Founder
+p:335,c:333,"Lead Software Architect",Employee - Technology
+p:53917,c:333,"Software Engineer",Employee - Technology
+p:1392,c:333,"Co-founder",Founder
+p:67901,c:333,"Engineer",Employee - Technology
+p:77080,c:333,"Program Manager",Senior Management
+p:26,c:333,"Co-founder, Chairman and CEO",Founder
+p:86186,c:333,"Designer",Employee - Design
+p:134596,c:333,"Software Engineer",Employee - Technology
+p:8961,c:333,"President",Senior Management
+p:167574,c:333,"Managing Director Germany",Senior Management
+p:167,c:333,"Founding Designer",Employee - Design
+p:168,c:333,"Software Engineer",Employee - Technology
+p:33,c:333,"Co-founder, VP, Bus Dev, Marketing, Strategy",Founder
+p:334,c:333,"VP of Engineering",Employee - Technology
+p:32,c:333,"Co-founder, CFO",Founder
+p:80432,c:333,"Senior Director, Consumer Marketing",Senior Management
+p:230955,c:333,"Senior Business Development",Employee - Technology
+p:10,c:5,"Founder and CEO, Board Of Directors",Founder
+p:11,c:5,"Co-founder",Founder
+p:8137,c:5,"Senior Platform Manager",Employee - Technology
+p:8534,c:5,"Engineering Lead",Employee - Technology
+p:26,c:5,"Board Of Directors",Investor/Board of Director
+p:23538,c:5,"Creative Director",Senior Management
+p:23538,c:5,"Interaction Designer",Employee - Design
+p:5357,c:5,"Software Engineer",Employee - Technology
+p:42113,c:5,"Director of Engineering",Employee - Technology
+p:52684,c:5,"Open Source and Web Standards Program Manager",Senior Management
+p:59449,c:5,"Head of Mobile Products",Employee - Technology
+p:65208,c:5,"Director, International Business Development",Employee - Technology
+p:16018,c:5,"Ad Operations Associate",Employee - Business
+p:3791,c:5,"Director, Identity Product Group",Senior Management
+p:75740,c:5,"Mobile",Employee - Technology
+p:134912,c:5,"Director of Engineering and Director of Developer Relations",Employee - Technology
+p:30146,c:5,"Product Manager, Mobile",Employee - Technology
+p:34176,c:5,"Engineering Director",Employee - Technology
+p:18130,c:5,"Product Manager, Location & Events",Senior Management
+p:93655,c:5,"Engineering Manager",Employee - Technology
+p:97765,c:5,"Head of International Growth",Senior Management
+p:74267,c:5,"Software Engineer",Employee - Technology
+p:74268,c:5,"Software Engineer",Employee - Technology
+p:76936,c:5,"Software Engineer",Employee - Technology
+p:28195,c:5,"Head of Analytics",Senior Management
+p:34948,c:5,"Software Engineering Manager",Employee - Technology
+p:104606,c:5,"Software Engineer",Employee - Technology
+p:106842,c:5,"Software Engineer",Employee - Technology
+p:165562,c:5,"Production Engineer",Employee - Technology
+p:134912,c:5,"Director of Product Management",Senior Management
+p:242601,c:5,"Software Engineer",Employee - Technology
+p:246634,c:5,"Data Analyst",Employee - Business
+p:31482,c:5,"Software Engineer",Employee - Technology
+p:46,c:12,"CEO, Co-Founder",Founder
+p:46,c:12,"Co-Founder, Exec Chairman",Founder
+p:12764,c:12,"Product Manager",Senior Management
+p:65312,c:12,"Research",Employee - Technology
+p:20755,c:12,"Board",Investor/Board of Director
+p:97403,c:12,"Software Engineer",Employee - Technology
+p:27275,c:12,"Director of Engineering",Employee - Technology
+p:90502,c:12,"Product Management Intern",Employee - Other
+p:29837,c:12,"Experience Designer",Employee - Design
+p:94254,c:12,"Senior Engineering Manager, Discover",Employee - Technology
+p:26083,c:12,"Board Member",Investor/Board of Director
+p:69663,c:12,"Vice President, Design",Senior Management
+p:204772,c:12,"Sr. Software Engineer",Employee - Technology
+p:264221,c:12,"Platform",Employee - Technology
+p:46,c:22784,"Co-Founder, CEO",Founder
+p:46828,c:22784,"Co-Founder",Founder
+p:37982,c:22784,"Advisor",Mentor/Advisor
+p:8876,c:22784,"CTO",Senior Management
+p:46,c:68,"Advisor",Mentor/Advisor
+p:15792,c:9049,"Co-Founder & CEO",Founder
+p:118868,c:9049,"Software Engineer",Employee - Technology
+p:217336,c:9049,"Head Of Global Hospitality",Senior Management
+p:31482,c:9049,"Mobile Product Team",Employee - Technology
+p:90115,c:9049,"Graphic Designer",Employee - Design
+p:62533,c:50890,"Systems Engineer",Employee - Technology
+p:43,c:50890,"Co-Founder & Chairman",Founder
+p:25972,c:50890,"CEO & Co-Founder",Founder
+p:72979,c:50890,"Software Engineer",Employee - Technology
+p:119915,c:50890,"Engineering Manager",Employee - Technology
+p:172618,c:50890,"NYC General Manager",Senior Management
+p:179893,c:50890,"General Manager, Uber, San Diego",Senior Management
+p:179893,c:50890,"Launcher",Employee - Other
+p:97765,c:50890,"Head of Growth",Senior Management
+p:43,c:714,"Investor",Investor/Board of Director
+p:172618,c:714,"Sales & Marketing",Employee - Business
+p:25972,c:424,"Head, P2P Initiatives",Senior Management
+p:76585,c:424,"VP",Senior Management
+p:119915,c:424,"Senior Software Engineer",Employee - Technology
+p:240431,c:424,"(Nine Systems)",Employee - Technology
+p:10916,c:5443,"CEO and Co-Founder",Founder
+p:77831,c:5443,"Back-end Engineer",Employee - Technology
+p:25972,c:5443,"Investor & Advisor",Mentor/Advisor
+p:1631,c:59,"Executive Chairman",Senior Management
+p:1632,c:59,"Co-Founder, President of Technology",Founder
+p:1633,c:59,"CEO & Co-Founder",Founder
+p:2216,c:59,"Product Manager",Senior Management
+p:8534,c:59,"Product Manager",Senior Management
+p:4368,c:59,"iGoogle",Employee - Other
+p:8876,c:59,"Staff Software Engineer",Employee - Technology
+p:13186,c:59,"Developer Advocate",Employee - Technology
+p:16018,c:59,"Online Operations Associate",Employee - Business
+p:203,c:59,"Member of Technical Staff",Employee - Other
+p:32879,c:59,"Senior Vice President, Advertising & Commerce",Senior Management
+p:34176,c:59,"Engineering Director",Employee - Technology
+p:31785,c:59,"President, Asian-Pacific and Latin American Markets",Senior Management
+p:37086,c:59,"",Other
+p:9657,c:59,"Senior Associate",Senior Management
+p:39462,c:59,"Technical Director",Senior Management
+p:41087,c:59,"Business Product Manager",Senior Management
+p:14003,c:59,"User Experience Designer",Employee - Design
+p:41089,c:59,"Tech Lead",Senior Management
+p:9778,c:59,"Senior VP, Mobile",Employee - Technology
+p:44665,c:59,"Engineering Manager",Employee - Technology
+p:18793,c:59,"Tech Lead",Senior Management
+p:48278,c:59,"Product Evangelist",Employee - Technology
+p:104,c:59,"Engineer",Employee - Technology
+p:39687,c:59,"",Other
+p:44863,c:59,"VP, Engineering",Employee - Technology
+p:59449,c:59,"Lead Product Manager, Android",Senior Management
+p:63050,c:59,"Staff Tech Lead Manager",Senior Management
+p:63233,c:59,"Member of Technical Staff - Software Engineer",Employee - Technology
+p:65249,c:59,"Analyst",Employee - Business
+p:54033,c:59,"Corporate Development Associate",Employee - Technology
+p:69083,c:59,"Software Engineer",Employee - Technology
+p:6297,c:59,"Vice President, Location & Local Services",Senior Management
+p:73061,c:59,"",Other
+p:74776,c:59,"Associate, Risk Operations",Employee - Business
+p:85523,c:59,"UI Design",Employee - Design
+p:85947,c:59,"Product Manager",Senior Management
+p:86489,c:59,"Software Engineering Intern",Employee - Technology
+p:87150,c:59,"Product Manager",Senior Management
+p:72069,c:59,"Senior Technical Recruiter",Employee - Other
+p:89039,c:59,"Head of Engineering, Middle East/North Africa",Employee - Technology
+p:90109,c:59,"Engineering Manager",Employee - Technology
+p:87293,c:59,"Software Engineer, Partner Solutions",Employee - Technology
+p:93819,c:59,"Strategic Partnerships",Employee - Other
+p:95824,c:59,"Engineering Director, Site Lead",Employee - Technology
+p:97403,c:59,"Software Engineer",Employee - Technology
+p:102962,c:59,"Software Engineer",Employee - Technology
+p:103458,c:59,"New Initiatives Manager  (Google/YouTube/DoubleClick)",Senior Management
+p:29860,c:59,"Program Manager, GDL",Senior Management
+p:415,c:59,"VP, Engineering",Employee - Technology
+p:123448,c:59,"Technical Program Manager",Senior Management
+p:30217,c:59,"Business Product Manager",Senior Management
+p:44091,c:59,"CEO of Google Comparison Inc",Senior Management
+p:134072,c:59,"Manager",Senior Management
+p:136815,c:59,"Product Manager",Senior Management
+p:3493,c:59,"Sales Engineer",Employee - Technology
+p:35591,c:59,"Senior Software Engineer",Employee - Technology
+p:43520,c:59,"User Interface Designer",Employee - Design
+p:115941,c:59,"",Other
+p:172840,c:59,"Search Engineer",Employee - Technology
+p:176123,c:59,"Senior Software Engineer",Employee - Technology
+p:133454,c:59,"Engineering Intern",Employee - Technology
+p:40548,c:59,"Technical Program Manager II",Senior Management
+p:178559,c:59,"Software Engineer",Employee - Technology
+p:101349,c:59,"",Other
+p:129389,c:59,"Developers Program Engineer",Employee - Technology
+p:5794,c:59,"Global Head of Product Management, Shopping & Product Ads",Senior Management
+p:67859,c:59,"Product Manager",Senior Management
+p:135934,c:59,"Software Engineering Intern",Employee - Technology
+p:160193,c:59,"Head of User Experience",Senior Management
+p:88339,c:59,"Software Engineer",Employee - Technology
+p:74267,c:59,"Senior Software Engineer",Employee - Technology
+p:74268,c:59,"Software Engineer",Employee - Technology
+p:76936,c:59,"Senior Staff Software Engineer",Employee - Technology
+p:3448,c:59,"Engineering",Employee - Technology
+p:108685,c:59,"TL",Senior Management
+p:86817,c:59,"Member of Technical Staff",Employee - Other
+p:2095,c:59,"Sr. Director, Engineering",Employee - Technology
+p:31991,c:59,"Group Product Marketing Manager",Senior Management
+p:6297,c:59,"VP, Search Products & User Experience",Senior Management
+p:5079,c:59,"Senior Advisor",Mentor/Advisor
+p:63423,c:59,"Product Manager",Senior Management
+p:9656,c:59,"Keeper of Insectivores",Employee - Other
+p:20249,c:59,"Product Manager",Senior Management
+p:20250,c:59,"Senior Product Manager",Senior Management
+p:92217,c:59,"Sales Engineer",Employee - Technology
+p:2095,c:59,"Engineer",Employee - Technology
+p:204195,c:59,"Technical Lead/Manager",Senior Management
+p:205142,c:59,"Head of Mobile Partnerships",Employee - Technology
+p:130901,c:59,"Product Marketing Manager,,,,Account Executive - Tech Industry",Senior Management
+p:94254,c:59,"Software Engineer",Employee - Technology
+p:211172,c:59,"Legal Director",Senior Management
+p:79701,c:59,"Software Engineering Intern",Employee - Technology
+p:108678,c:59,"Security Engineer",Employee - Technology
+p:95643,c:59,"Software Engineer",Employee - Technology
+p:158523,c:59,"User Experience Designer",Employee - Design
+p:48278,c:59,"Global Team Manager",Senior Management
+p:21563,c:59,"OSO",Employee - Other
+p:202566,c:59,"Director Product Management - AdSense, PicasaWeb",Senior Management
+p:11871,c:59,"Head of Consumer Payments",Senior Management
+p:171196,c:59,"",Other
+p:34606,c:59,"Global Head of Product Marketing",Senior Management
+p:41942,c:59,"Product Manager",Senior Management
+p:79154,c:59,"Product Manager",Senior Management
+p:139424,c:59,"Product Manager and Engineer",Employee - Technology
+p:93819,c:59,"Head of Google for Entrepreneurs Europe",Senior Management
+p:112045,c:59,"Ex-Product Manager",Senior Management
+p:1631,c:59,"CEO",Senior Management
+p:263553,c:59,"Cloud Evangelist",Employee - Technology
+p:264221,c:59,"Technical Programs Manager",Senior Management
+p:1631,c:1654,"Board of Directors",Investor/Board of Director
+p:8137,c:1654,"Manager, Creation and Collaboration",Senior Management
+p:8137,c:1654,"Manager, Higher Education Marketing at Apple",Senior Management
+p:5079,c:1654,"Board Director",Investor/Board of Director
+p:11481,c:1654,"VP",Senior Management
+p:14608,c:1654,"Engineer / Scientist",Employee - Technology
+p:44019,c:1654,"ice President, Interactive Media Group",Senior Management
+p:65445,c:1654,"SVP, Macintosh Hardware Engineering",Employee - Technology
+p:72531,c:1654,"Senior Scientist / Engineering Manager",Employee - Technology
+p:75740,c:1654,"Manager - JavaScript Frameworks",Senior Management
+p:18823,c:1654,"Manager of Curriculum Development",Employee - Technology
+p:98744,c:1654,"Sr. UI Engineer",Employee - Technology
+p:98744,c:1654,"Front-end Developer",Employee - Technology
+p:101679,c:1654,"Developer and Designer",Employee - Technology
+p:52498,c:1654,"Senior Designer",Senior Management
+p:136815,c:1654,"Product Planner",Employee - Business
+p:4636,c:1654,"Senior Director, NAND Flash",Senior Management
+p:181325,c:1654,"Intern, Web Development",Employee - Technology
+p:126383,c:1654,"iPod Product Design",Employee - Design
+p:72754,c:1654,"Global Manager of Production / Technical Partner Relations, iTunes Video",Senior Management
+p:17017,c:1654,"Engineer",Employee - Technology
+p:107644,c:1654,"Systems Programmer",Employee - Technology
+p:27275,c:1654,"Campus Representative, Stanford University",Employee - Other
+p:65445,c:1654,"Various Roles",Employee - Other
+p:156316,c:1654,"Product Manager, PowerBook",Senior Management
+p:209961,c:1654,"Software Engineer",Employee - Technology
+p:80672,c:1654,"Consultant",Employee - Business
+p:205782,c:1654,"Senior Engineer",Employee - Technology
+p:201783,c:1654,"Software Engineer",Employee - Technology
+p:201783,c:1654,"Hardware Test Engineer",Employee - Technology
+p:51475,c:1654,"Sr. Manager, International Education Markets",Senior Management
+p:51475,c:1654,"Sr. Manager, Asia Education Marketing",Senior Management
+p:51475,c:1654,"Market Manager, Science and Technology",Senior Management
+p:51475,c:1654,"Marketing Manager, Higher Education",Senior Management
+p:201260,c:1654,"Senior Technical Advisor",Mentor/Advisor
+p:6476,c:1654,"Creative Director",Senior Management
+p:158523,c:1654,"Interface Design Intern",Employee - Design
+p:334,c:113,"Co-founder and CEO",Founder
+p:335,c:113,"Co-founder and CTO",Founder
+p:415,c:113,"Chairman & Board Director",Investor/Board of Director
+p:107644,c:113,"Product Manager",Senior Management
+p:137469,c:113,"Senior Business Intelligence Analyst",Senior Management
+p:88021,c:113,"Co-founder",Founder
+p:201260,c:113,"Sales Account Executive",Employee - Business
+p:790,c:174,"investor",Investor/Board of Director
+p:334,c:174,"Advisor",Mentor/Advisor
+p:68770,c:174,"Senior Software Engineer",Employee - Technology
+p:8137,c:174,"Board of Directors",Investor/Board of Director
+p:26,c:31006,"Chairman, Board of Directors",Investor/Board of Director
+p:14698,c:31006,"1st employee - Director, Operations",Senior Management
+p:831,c:31006,"Advisor",Mentor/Advisor
+p:1308,c:31006,"",Other
+p:12356,c:31006,"Advisor",Mentor/Advisor
+p:14698,c:31006,"1st Employee",Employee - Other
+p:11,c:28718,"Co-founder",Founder
+p:8534,c:28718,"Co-founder",Founder
+p:42113,c:28718,"Advisor",Mentor/Advisor
+p:26,c:28718,"Member, Board of Directors",Investor/Board of Director
+p:415,c:2519,"Board Member",Investor/Board of Director
+p:90236,c:2519,"Senior Software Engineer",Employee - Technology
+p:6245,c:29,"MD, Consumer and Network Services, Europe",Employee - Business
+p:12966,c:29,"Technology Evangelist",Employee - Technology
+p:13386,c:29,"VP, Marketing, Search & Marketplace",Senior Management
+p:13412,c:29,"Head of Engineering, Real Time Communications",Employee - Technology
+p:14566,c:29,"Search & Social Search Director - Senior European Director",Senior Management
+p:15018,c:29,"Sr. Director Advanced Products",Senior Management
+p:12764,c:29,"Brickhouse Senior Designer",Senior Management
+p:694,c:29,"Product Manager",Senior Management
+p:23169,c:29,"Vice President, B2B Marketing",Senior Management
+p:25364,c:29,"Software Engineer",Employee - Technology
+p:29041,c:29,"Senior Marketing Manager",Senior Management
+p:28313,c:29,"Director of Product Marketing",Senior Management
+p:37496,c:29,"Senior Front End Engineer",Employee - Technology
+p:14003,c:29,"User Experience Design",Employee - Design
+p:52498,c:29,"VP, Product Management and Design, Yahoo! Search",Senior Management
+p:59449,c:29,"Product Manager",Senior Management
+p:77080,c:29,"SEO Program Manager",Senior Management
+p:13412,c:29,"Senior Director of Engineering",Employee - Technology
+p:6297,c:29,"CEO, President",Senior Management
+p:53993,c:29,"Technical Lead",Senior Management
+p:53993,c:29,"Principal Engineer",Employee - Technology
+p:5794,c:29,"Group VP/General Manager: Local & Commerce",Senior Management
+p:160193,c:29,"VP User Experience",Senior Management
+p:85523,c:29,"Senior Visual Designer",Senior Management
+p:29837,c:29,"Blogger Intern",Employee - Other
+p:201783,c:29,"VP, Engineering",Employee - Technology
+p:12966,c:29,"Technical Yahoo",Employee - Technology
+p:136815,c:29,"Product Management Intern",Employee - Other
+p:16648,c:29,"Sr. Director of Engineering - Advertising Management Platform (AMP), Director of Engineering & CTO of HotJobs",Employee - Technology
+p:205142,c:29,"General Manager (Europe), Yahoo! Search Marketing",Senior Management
+p:13386,c:29,"VP / General Manager Yahoo! Personals",Senior Management
+p:211172,c:29,"Senior Counsel",Senior Management
+p:80432,c:29,"Sr. Director, Marketing",Senior Management
+p:415,c:29,"Boards of Director",Investor/Board of Director
+p:11481,c:5000,"Senior Director",Senior Management
+p:20755,c:5000,"VP Technology",Senior Management
+p:33,c:5000,"Evangelism",Employee - Technology
+p:160193,c:5000,"Interaction Designer",Employee - Design
+p:210,c:5000,"Director of Marketing",Senior Management
+p:80432,c:5000,"Senior Director, Business Programming - Netcenter",Senior Management
+p:167,c:63,"Co-founder / CEO",Founder
+p:168,c:63,"Co-founder & CTO",Founder
+p:169,c:63,"Co-founder",Founder
+p:53917,c:63,"Product Manager, Mobile",Employee - Technology
+p:53917,c:63,"Sr. Engineer",Employee - Technology
+p:211172,c:63,"Associate General Counsel",Employee - Business
+p:171196,c:63,"",Other
+p:40455,c:20,"GM, Planning, Formats & Premium Features",Employee - Business
+p:52498,c:20,"Director",Senior Management
+p:694,c:20,"Director, Product Management eBay Mobile",Employee - Technology
+p:73061,c:20,"",Other
+p:133454,c:20,"Software Development Engineer II",Employee - Technology
+p:13386,c:20,"VP & General Manager",Senior Management
+p:168,c:20,"Engineering Manager",Employee - Technology
+p:32,c:20,"Director of Corporate Development",Employee - Technology
+p:8961,c:20,"President",Senior Management
+p:191519,c:213123,"Founder",Founder
+p:172840,c:213123,"Series A Investor",Investor/Board of Director
+p:83213,c:5990,"Engineer",Employee - Technology
+p:39462,c:5990,"CTO Cloud Platforms",Employee - Technology
+p:201650,c:5990,"Sr. Director, IT Business Applications",Senior Management
+p:121271,c:2680,"PaaS Ecosystem Manager",Employee - Technology
+p:189352,c:2680,"Software Architect",Employee - Technology
+p:28195,c:2680,"General Manager, Data Warehousing and Parallel Systems Division",Employee - Technology
+p:201650,c:2680,"Applications Management",Employee - Business
+p:31991,c:2680,"Senior Consultant",Senior Management
+p:52684,c:494,"Group Architect",Employee - Technology
+p:77080,c:494,"Director, Online Marketing",Senior Management
+p:134596,c:8091,"Software Engineer",Employee - Technology
+p:72531,c:28,"Senior Director, Engineering",Employee - Technology
+p:134596,c:28,"Software Engineer",Employee - Technology
+p:204195,c:28,"Software Engineer",Employee - Technology
+p:34606,c:28,"Senior Director",Senior Management
+p:80432,c:1438,"Director Marketing / Stragetic Partnerships",Senior Management
+p:20755,c:1242,"General Manager, Tellme Networks",Senior Management
+p:41089,c:1242,"Summer Intern",Employee - Other
+p:44019,c:1242,"Corporate Vice President",Senior Management
+p:53993,c:1242,"Software Developer in Test",Employee - Technology
+p:59449,c:1242,"Product Manager",Senior Management
+p:74776,c:1242,"Finance Rotation Analyst Intern",Employee - Other
+p:72069,c:1242,"Staffing Consultant",Employee - Business
+p:102962,c:1242,"Program Manager",Senior Management
+p:134912,c:1242,"CTO, Data and Modeling",Senior Management
+p:40548,c:1242,"Developer Evangelist",Employee - Technology
+p:40548,c:1242,"Program Manager",Senior Management
+p:40548,c:1242,"Program Manager Lead",Senior Management
+p:40548,c:1242,"HCI & Context-aware Computing Researcher Intern, Microsoft Research",Employee - Technology
+p:74268,c:1242,"Software Engineer",Employee - Technology
+p:76936,c:1242,"Software Engineer Lead",Employee - Technology
+p:3448,c:1242,"Program Manager",Senior Management
+p:2095,c:1242,"Research Intern",Employee - Technology
+p:209961,c:1242,"Summer Project",Employee - Other
+p:80432,c:1242,"Education Marketing Manager",Senior Management
+p:204772,c:1242,"Developer Manager",Employee - Technology
+p:246634,c:1242,"Principal Product Intelligence Manager",Senior Management
+p:263553,c:1242,"Online Services",Employee - Business
+p:8137,c:42053,"Co-Founder, Board of Directors and CEO",Founder
+p:23538,c:4283,"Designer",Employee - Design
+p:42113,c:425,"VP Engineering",Employee - Technology
+p:5357,c:425,"Product Manager",Senior Management
+p:65208,c:3133,"Usability & User Interface Lab",Employee - Design
+p:65208,c:17897,"CEO",Senior Management
+p:93655,c:1088,"SWE",Employee - Technology
+p:93655,c:1088,"VP, Engineering",Employee - Technology
+p:181325,c:1088,"Engineering Manager",Employee - Technology
+p:41942,c:1812,"Senior Product Manager",Senior Management
+p:28195,c:1812,"VP of Analytics and Platform Technologies",Employee - Technology
+p:34948,c:39169,"Founder",Founder
+p:2216,c:317,"Software Engineer",Employee - Technology
+p:11871,c:317,"Senior Manager",Senior Management
+p:104606,c:317,"Software Development Engineer",Employee - Technology
+p:31785,c:317,"Business Development Manager",Employee - Technology
+p:95643,c:317,"Software Engineer III",Employee - Technology
+p:20755,c:47368,"CEO & Co-founder",Founder
+p:37086,c:20303,"Co-Founder",Founder
+p:97403,c:20303,"West Coast Engineering Director",Employee - Technology
+p:37086,c:20303,"Co-Founder and Chief Executive Officer",Founder
+p:27275,c:83692,"Co-Founder/CEO",Founder
+p:31991,c:183,"Senior Vice President, Marketing",Senior Management
+p:27275,c:183,"Engineering Manager",Employee - Technology
+p:12356,c:183,"Advisor",Mentor/Advisor
+p:90502,c:720,"Content Acquisition MBA Intern",Employee - Other
+p:26083,c:396,"President & COO",Senior Management
+p:26083,c:1640,"Board Member",Investor/Board of Director
+p:26083,c:161,"Board Member",Investor/Board of Director
+p:264221,c:58846,"Developer Relations",Employee - Technology
+p:21891,c:590,"Member of Technical Staff",Employee - Other
+p:29041,c:590,"Online Marketing Manager",Senior Management
+p:8876,c:590,"Technical Architect",Employee - Technology
+p:76585,c:3246,"Director, Security and Cloud Products",Senior Management
+p:202566,c:3246,"Lean Manufacturing Engineer",Employee - Technology
+p:72069,c:1972,"Senior Technical Recruiter",Employee - Other
+p:13186,c:1972,"VP, Open Cloud Standards",Senior Management
+p:103795,c:1972,"Financial Planning and Analysis",Employee - Business
+p:13412,c:1972,"Vice President of Engineering",Employee - Technology
+p:218144,c:1972,"Visual Designer",Employee - Design
+p:32879,c:2312,"Board Member",Investor/Board of Director
+p:9778,c:4731,"Co-founder",Founder
+p:18793,c:176,"Head of Query Understanding",Senior Management
+p:2095,c:176,"SVP, Engineering",Employee - Technology
+p:108685,c:176,"Manager - Software Engineer",Employee - Technology
+p:65249,c:7913,"Health & Wellness Specialist",Employee - Business
+p:158523,c:7913,"Communications & Interaction Design",Employee - Design
+p:54033,c:43233,"Co-founder",Founder
+p:6297,c:29025,"Board of Directors",Investor/Board of Director
+p:6297,c:874,"Board Member",Investor/Board of Director
+p:2095,c:726,"VP, Engineering & Technical Operations",Employee - Technology
+p:85523,c:726,"Senior UI Designer",Senior Management
+p:178559,c:726,"Software Engineer",Employee - Technology
+p:108685,c:726,"Lead Front End Engineer",Employee - Technology
+p:205142,c:726,"Director, Business Development (EMEA)",Employee - Technology
+p:85947,c:6015,"Managing Director, Asia Pacific",Senior Management
+p:85947,c:6015,"CEO",Senior Management
+p:85947,c:30839,"Head of Communication Products",Senior Management
+p:87150,c:5394,"Manager",Senior Management
+p:72069,c:2335,"Senior Technical Recruiter",Employee - Other
+p:72069,c:197969,"Recruiting",Employee - Other
+p:89039,c:5182,"Manager, Internet Tools & Technologies Group, e-Solutions, Worldwide Operations",Senior Management
+p:90109,c:283,"Engineering Manager",Employee - Technology
+p:201783,c:283,"QA Engineer",Employee - Technology
+p:11481,c:351,"Executive Director",Senior Management
+p:103458,c:351,"General Manager, Video- AOL-Huffington Post Media Group",Senior Management
+p:35591,c:351,"Head of AIM Products",Senior Management
+p:44091,c:7299,"Founder, Board Member",Founder
+p:115941,c:823,"",Other
+p:129389,c:5581,"Embedded Software Engineer",Employee - Technology
+p:13386,c:355,"Associate Counsel",Employee - Business
+p:21563,c:355,"Strategic Marketing Product Manager",Senior Management
+p:202566,c:355,"Lean Manufacturing Program Manager",Senior Management
+p:181325,c:250,"Web Developer",Employee - Technology
+p:156316,c:2602,"Executive Director, Americas Marketing",Senior Management
+p:156316,c:2602,"Executive Director, Global Demand Generation",Senior Management
+p:201783,c:57403,"Co-founder",Founder
+p:6476,c:9743,"President",Senior Management
+p:6476,c:9045,"Marketing",Employee - Business
+p:3112,c:8235,"COO",Senior Management
+p:103795,c:8235,"Corp Controller",Employee - Business
+p:218144,c:8235,"UX Design",Employee - Design
+p:97559,c:79665,"Co-Founder & CTO",Founder
+p:37496,c:5744,"Senior PHP Software Engineer",Employee - Technology
+p:69679,c:5744,"Consultant Developer",Employee - Technology
+p:1308,c:41370,"Board Member",Investor/Board of Director
+p:12356,c:900,"CTO and SVP Engineering",Employee - Technology
+p:25364,c:900,"Fellow (WebFWD)",Employee - Other
+p:12356,c:70139,"Advisor",Mentor/Advisor
+p:6245,c:62,"VP Business Development/GM Europe",Employee - Technology
+p:12966,c:2034,"Software Engineer",Employee - Technology
+p:1640,c:479,"CEO & President",Senior Management
+p:1641,c:479,"Board",Investor/Board of Director
+p:3112,c:479,"VP Database products",Senior Management
+p:1631,c:479,"CTO",Senior Management
+p:53993,c:479,"Member Technical Staff",Employee - Other
+p:50677,c:479,"Product Line Manager",Senior Management
+p:121271,c:479,"Startups Essentials (Incubator Program)",Mentor/Advisor
+p:121271,c:479,"Sun Cloud Market Development",Employee - Technology
+p:136815,c:479,"Program Manager",Senior Management
+p:148669,c:479,"Software Engineer",Employee - Technology
+p:189352,c:479,"Software Architect",Employee - Technology
+p:97559,c:479,"Campus Ambassador",Employee - Other
+p:65646,c:479,"Senior Social Media Manager, Global Communications Division",Senior Management
+p:69679,c:479,"Sr. Architect",Employee - Technology
+p:1577,c:479,"Software Engineer",Employee - Technology
+p:136815,c:479,"Software Engineer",Employee - Technology
+p:28313,c:479,"MBA Summer Intern",Employee - Other
+p:16648,c:479,"Staff Engineer",Employee - Technology
+p:210,c:479,"Group Marketing Manager",Senior Management
+p:169709,c:479,"senior vice president",Senior Management
+p:153647,c:479,"",Other
+p:183006,c:479,"Team Member",Employee - Other
+p:140056,c:479,"Senior-Level Positions",Senior Management
+p:3112,c:731,"EVP - Products",Senior Management

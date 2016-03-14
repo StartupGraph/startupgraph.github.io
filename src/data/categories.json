@@ -1,0 +1,2755 @@
+{
+  "data":
+  [
+    {
+      "category": "advertising",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "advertising",
+      "funded_year": 1994,
+      "total_raised_amount": 400000
+    },
+    {
+      "category": "advertising",
+      "funded_year": 1999,
+      "total_raised_amount": 62000000
+    },
+    {
+      "category": "advertising",
+      "funded_year": 2000,
+      "total_raised_amount": 39004000
+    },
+    {
+      "category": "advertising",
+      "funded_year": 2001,
+      "total_raised_amount": 25362120
+    },
+    {
+      "category": "advertising",
+      "funded_year": 2002,
+      "total_raised_amount": 61152000
+    },
+    {
+      "category": "advertising",
+      "funded_year": 2003,
+      "total_raised_amount": 18000000
+    },
+    {
+      "category": "advertising",
+      "funded_year": 2004,
+      "total_raised_amount": 30720000
+    },
+    {
+      "category": "advertising",
+      "funded_year": 2005,
+      "total_raised_amount": 192991000
+    },
+    {
+      "category": "advertising",
+      "funded_year": 2006,
+      "total_raised_amount": 628163670
+    },
+    {
+      "category": "advertising",
+      "funded_year": 2007,
+      "total_raised_amount": 1190301202
+    },
+    {
+      "category": "advertising",
+      "funded_year": 2008,
+      "total_raised_amount": 1666092357
+    },
+    {
+      "category": "advertising",
+      "funded_year": 2009,
+      "total_raised_amount": 1059379569
+    },
+    {
+      "category": "advertising",
+      "funded_year": 2010,
+      "total_raised_amount": 1444314942
+    },
+    {
+      "category": "advertising",
+      "funded_year": 2011,
+      "total_raised_amount": 2213153470
+    },
+    {
+      "category": "advertising",
+      "funded_year": 2012,
+      "total_raised_amount": 2029795871
+    },
+    {
+      "category": "advertising",
+      "funded_year": 2013,
+      "total_raised_amount": 1827358059
+    },
+    {
+      "category": "analytics",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "analytics",
+      "funded_year": 2001,
+      "total_raised_amount": 1400000
+    },
+    {
+      "category": "analytics",
+      "funded_year": 2003,
+      "total_raised_amount": 3000000
+    },
+    {
+      "category": "analytics",
+      "funded_year": 2004,
+      "total_raised_amount": 23900000
+    },
+    {
+      "category": "analytics",
+      "funded_year": 2005,
+      "total_raised_amount": 76503122
+    },
+    {
+      "category": "analytics",
+      "funded_year": 2006,
+      "total_raised_amount": 148533280
+    },
+    {
+      "category": "analytics",
+      "funded_year": 2007,
+      "total_raised_amount": 256086465
+    },
+    {
+      "category": "analytics",
+      "funded_year": 2008,
+      "total_raised_amount": 270272000
+    },
+    {
+      "category": "analytics",
+      "funded_year": 2009,
+      "total_raised_amount": 392646715
+    },
+    {
+      "category": "analytics",
+      "funded_year": 2010,
+      "total_raised_amount": 789600845
+    },
+    {
+      "category": "analytics",
+      "funded_year": 2011,
+      "total_raised_amount": 1215660130
+    },
+    {
+      "category": "analytics",
+      "funded_year": 2012,
+      "total_raised_amount": 1497375302
+    },
+    {
+      "category": "analytics",
+      "funded_year": 2013,
+      "total_raised_amount": 2023334090
+    },
+    {
+      "category": "automotive",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "automotive",
+      "funded_year": 2004,
+      "total_raised_amount": 7500000
+    },
+    {
+      "category": "automotive",
+      "funded_year": 2005,
+      "total_raised_amount": 13117970
+    },
+    {
+      "category": "automotive",
+      "funded_year": 2006,
+      "total_raised_amount": 64951000
+    },
+    {
+      "category": "automotive",
+      "funded_year": 2007,
+      "total_raised_amount": 145000000
+    },
+    {
+      "category": "automotive",
+      "funded_year": 2008,
+      "total_raised_amount": 261060000
+    },
+    {
+      "category": "automotive",
+      "funded_year": 2009,
+      "total_raised_amount": 1340020000
+    },
+    {
+      "category": "automotive",
+      "funded_year": 2010,
+      "total_raised_amount": 473780476
+    },
+    {
+      "category": "automotive",
+      "funded_year": 2011,
+      "total_raised_amount": 262823449
+    },
+    {
+      "category": "automotive",
+      "funded_year": 2012,
+      "total_raised_amount": 545415414
+    },
+    {
+      "category": "automotive",
+      "funded_year": 2013,
+      "total_raised_amount": 480552439
+    },
+    {
+      "category": "biotech",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "biotech",
+      "funded_year": 1960,
+      "total_raised_amount": 50075000
+    },
+    {
+      "category": "biotech",
+      "funded_year": 1999,
+      "total_raised_amount": 9736101
+    },
+    {
+      "category": "biotech",
+      "funded_year": 2000,
+      "total_raised_amount": 14000000
+    },
+    {
+      "category": "biotech",
+      "funded_year": 2001,
+      "total_raised_amount": 56218802
+    },
+    {
+      "category": "biotech",
+      "funded_year": 2002,
+      "total_raised_amount": 16096631
+    },
+    {
+      "category": "biotech",
+      "funded_year": 2003,
+      "total_raised_amount": 90809878
+    },
+    {
+      "category": "biotech",
+      "funded_year": 2004,
+      "total_raised_amount": 240652084
+    },
+    {
+      "category": "biotech",
+      "funded_year": 2005,
+      "total_raised_amount": 1661239615
+    },
+    {
+      "category": "biotech",
+      "funded_year": 2006,
+      "total_raised_amount": 2625722587
+    },
+    {
+      "category": "biotech",
+      "funded_year": 2007,
+      "total_raised_amount": 4079967563
+    },
+    {
+      "category": "biotech",
+      "funded_year": 2008,
+      "total_raised_amount": 2798730383
+    },
+    {
+      "category": "biotech",
+      "funded_year": 2009,
+      "total_raised_amount": 7344054764
+    },
+    {
+      "category": "biotech",
+      "funded_year": 2010,
+      "total_raised_amount": 9002365098
+    },
+    {
+      "category": "biotech",
+      "funded_year": 2011,
+      "total_raised_amount": 11391261786
+    },
+    {
+      "category": "biotech",
+      "funded_year": 2012,
+      "total_raised_amount": 10555926207
+    },
+    {
+      "category": "biotech",
+      "funded_year": 2013,
+      "total_raised_amount": 16898427525
+    },
+    {
+      "category": "cleantech",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "cleantech",
+      "funded_year": 1999,
+      "total_raised_amount": 15352300
+    },
+    {
+      "category": "cleantech",
+      "funded_year": 2002,
+      "total_raised_amount": 6000000
+    },
+    {
+      "category": "cleantech",
+      "funded_year": 2003,
+      "total_raised_amount": 5987940
+    },
+    {
+      "category": "cleantech",
+      "funded_year": 2004,
+      "total_raised_amount": 28058000
+    },
+    {
+      "category": "cleantech",
+      "funded_year": 2005,
+      "total_raised_amount": 170697194
+    },
+    {
+      "category": "cleantech",
+      "funded_year": 2006,
+      "total_raised_amount": 403960684
+    },
+    {
+      "category": "cleantech",
+      "funded_year": 2007,
+      "total_raised_amount": 2063239106
+    },
+    {
+      "category": "cleantech",
+      "funded_year": 2008,
+      "total_raised_amount": 6595385633
+    },
+    {
+      "category": "cleantech",
+      "funded_year": 2009,
+      "total_raised_amount": 3983960205
+    },
+    {
+      "category": "cleantech",
+      "funded_year": 2010,
+      "total_raised_amount": 6771191056
+    },
+    {
+      "category": "cleantech",
+      "funded_year": 2011,
+      "total_raised_amount": 6505719971
+    },
+    {
+      "category": "cleantech",
+      "funded_year": 2012,
+      "total_raised_amount": 5333993903
+    },
+    {
+      "category": "cleantech",
+      "funded_year": 2013,
+      "total_raised_amount": 6750297606
+    },
+    {
+      "category": "consulting",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "consulting",
+      "funded_year": 1990,
+      "total_raised_amount": 1000000
+    },
+    {
+      "category": "consulting",
+      "funded_year": 1993,
+      "total_raised_amount": 125000
+    },
+    {
+      "category": "consulting",
+      "funded_year": 1997,
+      "total_raised_amount": 100000
+    },
+    {
+      "category": "consulting",
+      "funded_year": 1998,
+      "total_raised_amount": 100000
+    },
+    {
+      "category": "consulting",
+      "funded_year": 1999,
+      "total_raised_amount": 115200
+    },
+    {
+      "category": "consulting",
+      "funded_year": 2000,
+      "total_raised_amount": 45750000
+    },
+    {
+      "category": "consulting",
+      "funded_year": 2001,
+      "total_raised_amount": 20024900
+    },
+    {
+      "category": "consulting",
+      "funded_year": 2002,
+      "total_raised_amount": 21813370
+    },
+    {
+      "category": "consulting",
+      "funded_year": 2003,
+      "total_raised_amount": 29385000
+    },
+    {
+      "category": "consulting",
+      "funded_year": 2004,
+      "total_raised_amount": 77866643
+    },
+    {
+      "category": "consulting",
+      "funded_year": 2005,
+      "total_raised_amount": 67946628
+    },
+    {
+      "category": "consulting",
+      "funded_year": 2006,
+      "total_raised_amount": 51670000
+    },
+    {
+      "category": "consulting",
+      "funded_year": 2007,
+      "total_raised_amount": 407638000
+    },
+    {
+      "category": "consulting",
+      "funded_year": 2008,
+      "total_raised_amount": 186299402
+    },
+    {
+      "category": "consulting",
+      "funded_year": 2009,
+      "total_raised_amount": 314337805
+    },
+    {
+      "category": "consulting",
+      "funded_year": 2010,
+      "total_raised_amount": 264049412
+    },
+    {
+      "category": "consulting",
+      "funded_year": 2011,
+      "total_raised_amount": 412866066
+    },
+    {
+      "category": "consulting",
+      "funded_year": 2012,
+      "total_raised_amount": 161382788
+    },
+    {
+      "category": "consulting",
+      "funded_year": 2013,
+      "total_raised_amount": 537379919
+    },
+    {
+      "category": "design",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "design",
+      "funded_year": 2009,
+      "total_raised_amount": 730110
+    },
+    {
+      "category": "design",
+      "funded_year": 2010,
+      "total_raised_amount": 8274155
+    },
+    {
+      "category": "design",
+      "funded_year": 2011,
+      "total_raised_amount": 14833197
+    },
+    {
+      "category": "design",
+      "funded_year": 2012,
+      "total_raised_amount": 77809530
+    },
+    {
+      "category": "design",
+      "funded_year": 2013,
+      "total_raised_amount": 84731377
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 1995,
+      "total_raised_amount": 8000000
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 1998,
+      "total_raised_amount": 82336990
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 1999,
+      "total_raised_amount": 112272680
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 2000,
+      "total_raised_amount": 65268800
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 2001,
+      "total_raised_amount": 345000
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 2002,
+      "total_raised_amount": 469543
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 2003,
+      "total_raised_amount": 85392200
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 2004,
+      "total_raised_amount": 73649076
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 2005,
+      "total_raised_amount": 154808621
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 2006,
+      "total_raised_amount": 346216662
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 2007,
+      "total_raised_amount": 864134231
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 2008,
+      "total_raised_amount": 1088415482
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 2009,
+      "total_raised_amount": 575491398
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 2010,
+      "total_raised_amount": 1676415939
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 2011,
+      "total_raised_amount": 3906744375
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 2012,
+      "total_raised_amount": 3471847474
+    },
+    {
+      "category": "ecommerce",
+      "funded_year": 2013,
+      "total_raised_amount": 5107825688
+    },
+    {
+      "category": "education",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "education",
+      "funded_year": 2005,
+      "total_raised_amount": 751000
+    },
+    {
+      "category": "education",
+      "funded_year": 2006,
+      "total_raised_amount": 23250000
+    },
+    {
+      "category": "education",
+      "funded_year": 2007,
+      "total_raised_amount": 10700000
+    },
+    {
+      "category": "education",
+      "funded_year": 2008,
+      "total_raised_amount": 74540000
+    },
+    {
+      "category": "education",
+      "funded_year": 2009,
+      "total_raised_amount": 248704173
+    },
+    {
+      "category": "education",
+      "funded_year": 2010,
+      "total_raised_amount": 436064814
+    },
+    {
+      "category": "education",
+      "funded_year": 2011,
+      "total_raised_amount": 370590990
+    },
+    {
+      "category": "education",
+      "funded_year": 2012,
+      "total_raised_amount": 740322775
+    },
+    {
+      "category": "education",
+      "funded_year": 2013,
+      "total_raised_amount": 2043594811
+    },
+    {
+      "category": "enterprise",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 1989,
+      "total_raised_amount": 15000
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 1999,
+      "total_raised_amount": 42200000
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 2000,
+      "total_raised_amount": 167050000
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 2001,
+      "total_raised_amount": 10980176
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 2002,
+      "total_raised_amount": 44700000
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 2003,
+      "total_raised_amount": 65440000
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 2004,
+      "total_raised_amount": 75150000
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 2005,
+      "total_raised_amount": 470371575
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 2006,
+      "total_raised_amount": 682977824
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 2007,
+      "total_raised_amount": 1157888165
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 2008,
+      "total_raised_amount": 1591461827
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 2009,
+      "total_raised_amount": 1512063569
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 2010,
+      "total_raised_amount": 3515650290
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 2011,
+      "total_raised_amount": 3049481908
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 2012,
+      "total_raised_amount": 3965951661
+    },
+    {
+      "category": "enterprise",
+      "funded_year": 2013,
+      "total_raised_amount": 4986603850
+    },
+    {
+      "category": "fashion",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "fashion",
+      "funded_year": 2007,
+      "total_raised_amount": 5000000
+    },
+    {
+      "category": "fashion",
+      "funded_year": 2008,
+      "total_raised_amount": 17425000
+    },
+    {
+      "category": "fashion",
+      "funded_year": 2009,
+      "total_raised_amount": 104395120
+    },
+    {
+      "category": "fashion",
+      "funded_year": 2010,
+      "total_raised_amount": 263789899
+    },
+    {
+      "category": "fashion",
+      "funded_year": 2011,
+      "total_raised_amount": 663670963
+    },
+    {
+      "category": "fashion",
+      "funded_year": 2012,
+      "total_raised_amount": 984136773
+    },
+    {
+      "category": "fashion",
+      "funded_year": 2013,
+      "total_raised_amount": 1043445603
+    },
+    {
+      "category": "finance",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "finance",
+      "funded_year": 1999,
+      "total_raised_amount": 7000000
+    },
+    {
+      "category": "finance",
+      "funded_year": 2000,
+      "total_raised_amount": 100000000
+    },
+    {
+      "category": "finance",
+      "funded_year": 2001,
+      "total_raised_amount": 91674900
+    },
+    {
+      "category": "finance",
+      "funded_year": 2003,
+      "total_raised_amount": 6292200
+    },
+    {
+      "category": "finance",
+      "funded_year": 2005,
+      "total_raised_amount": 25722600
+    },
+    {
+      "category": "finance",
+      "funded_year": 2006,
+      "total_raised_amount": 91595530
+    },
+    {
+      "category": "finance",
+      "funded_year": 2007,
+      "total_raised_amount": 120156550
+    },
+    {
+      "category": "finance",
+      "funded_year": 2008,
+      "total_raised_amount": 149131662
+    },
+    {
+      "category": "finance",
+      "funded_year": 2009,
+      "total_raised_amount": 362291795
+    },
+    {
+      "category": "finance",
+      "funded_year": 2010,
+      "total_raised_amount": 1371397573
+    },
+    {
+      "category": "finance",
+      "funded_year": 2011,
+      "total_raised_amount": 1449961393
+    },
+    {
+      "category": "finance",
+      "funded_year": 2012,
+      "total_raised_amount": 845520465
+    },
+    {
+      "category": "finance",
+      "funded_year": 2013,
+      "total_raised_amount": 2758323170
+    },
+    {
+      "category": "games_video",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "games_video",
+      "funded_year": 1999,
+      "total_raised_amount": 30000000
+    },
+    {
+      "category": "games_video",
+      "funded_year": 2000,
+      "total_raised_amount": 40683943
+    },
+    {
+      "category": "games_video",
+      "funded_year": 2001,
+      "total_raised_amount": 72828622
+    },
+    {
+      "category": "games_video",
+      "funded_year": 2002,
+      "total_raised_amount": 10225000
+    },
+    {
+      "category": "games_video",
+      "funded_year": 2003,
+      "total_raised_amount": 38573810
+    },
+    {
+      "category": "games_video",
+      "funded_year": 2004,
+      "total_raised_amount": 118395477
+    },
+    {
+      "category": "games_video",
+      "funded_year": 2005,
+      "total_raised_amount": 248366264
+    },
+    {
+      "category": "games_video",
+      "funded_year": 2006,
+      "total_raised_amount": 793497662
+    },
+    {
+      "category": "games_video",
+      "funded_year": 2007,
+      "total_raised_amount": 2152180221
+    },
+    {
+      "category": "games_video",
+      "funded_year": 2008,
+      "total_raised_amount": 1756544673
+    },
+    {
+      "category": "games_video",
+      "funded_year": 2009,
+      "total_raised_amount": 875457962
+    },
+    {
+      "category": "games_video",
+      "funded_year": 2010,
+      "total_raised_amount": 2059139476
+    },
+    {
+      "category": "games_video",
+      "funded_year": 2011,
+      "total_raised_amount": 2821089282
+    },
+    {
+      "category": "games_video",
+      "funded_year": 2012,
+      "total_raised_amount": 1488896638
+    },
+    {
+      "category": "games_video",
+      "funded_year": 2013,
+      "total_raised_amount": 2177684576
+    },
+    {
+      "category": "government",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "government",
+      "funded_year": 2006,
+      "total_raised_amount": 150000
+    },
+    {
+      "category": "government",
+      "funded_year": 2010,
+      "total_raised_amount": 1451000
+    },
+    {
+      "category": "government",
+      "funded_year": 2011,
+      "total_raised_amount": 167500
+    },
+    {
+      "category": "government",
+      "funded_year": 2012,
+      "total_raised_amount": 200015000
+    },
+    {
+      "category": "government",
+      "funded_year": 2013,
+      "total_raised_amount": 45200000
+    },
+    {
+      "category": "hardware",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "hardware",
+      "funded_year": 1998,
+      "total_raised_amount": 15800000
+    },
+    {
+      "category": "hardware",
+      "funded_year": 1999,
+      "total_raised_amount": 400000
+    },
+    {
+      "category": "hardware",
+      "funded_year": 2000,
+      "total_raised_amount": 72300000
+    },
+    {
+      "category": "hardware",
+      "funded_year": 2001,
+      "total_raised_amount": 26774927
+    },
+    {
+      "category": "hardware",
+      "funded_year": 2002,
+      "total_raised_amount": 35885800
+    },
+    {
+      "category": "hardware",
+      "funded_year": 2003,
+      "total_raised_amount": 38129272
+    },
+    {
+      "category": "hardware",
+      "funded_year": 2004,
+      "total_raised_amount": 164085000
+    },
+    {
+      "category": "hardware",
+      "funded_year": 2005,
+      "total_raised_amount": 933765407
+    },
+    {
+      "category": "hardware",
+      "funded_year": 2006,
+      "total_raised_amount": 757209356
+    },
+    {
+      "category": "hardware",
+      "funded_year": 2007,
+      "total_raised_amount": 1192862777
+    },
+    {
+      "category": "hardware",
+      "funded_year": 2008,
+      "total_raised_amount": 896924101
+    },
+    {
+      "category": "hardware",
+      "funded_year": 2009,
+      "total_raised_amount": 1099937666
+    },
+    {
+      "category": "hardware",
+      "funded_year": 2010,
+      "total_raised_amount": 1235000344
+    },
+    {
+      "category": "hardware",
+      "funded_year": 2011,
+      "total_raised_amount": 2076159136
+    },
+    {
+      "category": "hardware",
+      "funded_year": 2012,
+      "total_raised_amount": 2899434141
+    },
+    {
+      "category": "hardware",
+      "funded_year": 2013,
+      "total_raised_amount": 3370006340
+    },
+    {
+      "category": "health",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "health",
+      "funded_year": 2003,
+      "total_raised_amount": 12229620
+    },
+    {
+      "category": "health",
+      "funded_year": 2004,
+      "total_raised_amount": 4000000
+    },
+    {
+      "category": "health",
+      "funded_year": 2005,
+      "total_raised_amount": 9810000
+    },
+    {
+      "category": "health",
+      "funded_year": 2006,
+      "total_raised_amount": 27000000
+    },
+    {
+      "category": "health",
+      "funded_year": 2007,
+      "total_raised_amount": 76582500
+    },
+    {
+      "category": "health",
+      "funded_year": 2008,
+      "total_raised_amount": 152206094
+    },
+    {
+      "category": "health",
+      "funded_year": 2009,
+      "total_raised_amount": 179277461
+    },
+    {
+      "category": "health",
+      "funded_year": 2010,
+      "total_raised_amount": 865147531
+    },
+    {
+      "category": "health",
+      "funded_year": 2011,
+      "total_raised_amount": 1676049636
+    },
+    {
+      "category": "health",
+      "funded_year": 2012,
+      "total_raised_amount": 708993736
+    },
+    {
+      "category": "health",
+      "funded_year": 2013,
+      "total_raised_amount": 4464793624
+    },
+    {
+      "category": "hospitality",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "hospitality",
+      "funded_year": 2000,
+      "total_raised_amount": 1000000
+    },
+    {
+      "category": "hospitality",
+      "funded_year": 2006,
+      "total_raised_amount": 63000000
+    },
+    {
+      "category": "hospitality",
+      "funded_year": 2007,
+      "total_raised_amount": 1100000
+    },
+    {
+      "category": "hospitality",
+      "funded_year": 2008,
+      "total_raised_amount": 65882195
+    },
+    {
+      "category": "hospitality",
+      "funded_year": 2009,
+      "total_raised_amount": 42877976
+    },
+    {
+      "category": "hospitality",
+      "funded_year": 2010,
+      "total_raised_amount": 75860948
+    },
+    {
+      "category": "hospitality",
+      "funded_year": 2011,
+      "total_raised_amount": 382944529
+    },
+    {
+      "category": "hospitality",
+      "funded_year": 2012,
+      "total_raised_amount": 389279763
+    },
+    {
+      "category": "hospitality",
+      "funded_year": 2013,
+      "total_raised_amount": 1570813484
+    },
+    {
+      "category": "legal",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "legal",
+      "funded_year": 1995,
+      "total_raised_amount": 500000
+    },
+    {
+      "category": "legal",
+      "funded_year": 2005,
+      "total_raised_amount": 4810118
+    },
+    {
+      "category": "legal",
+      "funded_year": 2006,
+      "total_raised_amount": 3000000
+    },
+    {
+      "category": "legal",
+      "funded_year": 2007,
+      "total_raised_amount": 15100000
+    },
+    {
+      "category": "legal",
+      "funded_year": 2008,
+      "total_raised_amount": 24871756
+    },
+    {
+      "category": "legal",
+      "funded_year": 2009,
+      "total_raised_amount": 10100000
+    },
+    {
+      "category": "legal",
+      "funded_year": 2010,
+      "total_raised_amount": 51837345
+    },
+    {
+      "category": "legal",
+      "funded_year": 2011,
+      "total_raised_amount": 99763690
+    },
+    {
+      "category": "legal",
+      "funded_year": 2012,
+      "total_raised_amount": 59902417
+    },
+    {
+      "category": "legal",
+      "funded_year": 2013,
+      "total_raised_amount": 77561654
+    },
+    {
+      "category": "local",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "local",
+      "funded_year": 2007,
+      "total_raised_amount": 18500000
+    },
+    {
+      "category": "local",
+      "funded_year": 2010,
+      "total_raised_amount": 1300000
+    },
+    {
+      "category": "local",
+      "funded_year": 2011,
+      "total_raised_amount": 25736363
+    },
+    {
+      "category": "local",
+      "funded_year": 2012,
+      "total_raised_amount": 19791439
+    },
+    {
+      "category": "local",
+      "funded_year": 2013,
+      "total_raised_amount": 290335207
+    },
+    {
+      "category": "manufacturing",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "manufacturing",
+      "funded_year": 2005,
+      "total_raised_amount": 19400000
+    },
+    {
+      "category": "manufacturing",
+      "funded_year": 2006,
+      "total_raised_amount": 132343222
+    },
+    {
+      "category": "manufacturing",
+      "funded_year": 2007,
+      "total_raised_amount": 45943000
+    },
+    {
+      "category": "manufacturing",
+      "funded_year": 2008,
+      "total_raised_amount": 517660000
+    },
+    {
+      "category": "manufacturing",
+      "funded_year": 2009,
+      "total_raised_amount": 1349139054
+    },
+    {
+      "category": "manufacturing",
+      "funded_year": 2010,
+      "total_raised_amount": 937945285
+    },
+    {
+      "category": "manufacturing",
+      "funded_year": 2011,
+      "total_raised_amount": 1109139382
+    },
+    {
+      "category": "manufacturing",
+      "funded_year": 2012,
+      "total_raised_amount": 853083302
+    },
+    {
+      "category": "manufacturing",
+      "funded_year": 2013,
+      "total_raised_amount": 966536770
+    },
+    {
+      "category": "medical",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "medical",
+      "funded_year": 2000,
+      "total_raised_amount": 1000000
+    },
+    {
+      "category": "medical",
+      "funded_year": 2001,
+      "total_raised_amount": 23735300
+    },
+    {
+      "category": "medical",
+      "funded_year": 2002,
+      "total_raised_amount": 10000000
+    },
+    {
+      "category": "medical",
+      "funded_year": 2003,
+      "total_raised_amount": 5000000
+    },
+    {
+      "category": "medical",
+      "funded_year": 2004,
+      "total_raised_amount": 48300000
+    },
+    {
+      "category": "medical",
+      "funded_year": 2005,
+      "total_raised_amount": 70013972
+    },
+    {
+      "category": "medical",
+      "funded_year": 2006,
+      "total_raised_amount": 170394105
+    },
+    {
+      "category": "medical",
+      "funded_year": 2007,
+      "total_raised_amount": 429444411
+    },
+    {
+      "category": "medical",
+      "funded_year": 2008,
+      "total_raised_amount": 587705000
+    },
+    {
+      "category": "medical",
+      "funded_year": 2009,
+      "total_raised_amount": 1040098233
+    },
+    {
+      "category": "medical",
+      "funded_year": 2010,
+      "total_raised_amount": 2020098702
+    },
+    {
+      "category": "medical",
+      "funded_year": 2011,
+      "total_raised_amount": 2740290849
+    },
+    {
+      "category": "medical",
+      "funded_year": 2012,
+      "total_raised_amount": 2900789490
+    },
+    {
+      "category": "medical",
+      "funded_year": 2013,
+      "total_raised_amount": 3188304563
+    },
+    {
+      "category": "messaging",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "messaging",
+      "funded_year": 2004,
+      "total_raised_amount": 7000000
+    },
+    {
+      "category": "messaging",
+      "funded_year": 2005,
+      "total_raised_amount": 38750000
+    },
+    {
+      "category": "messaging",
+      "funded_year": 2006,
+      "total_raised_amount": 96398707
+    },
+    {
+      "category": "messaging",
+      "funded_year": 2007,
+      "total_raised_amount": 60914439
+    },
+    {
+      "category": "messaging",
+      "funded_year": 2008,
+      "total_raised_amount": 311227225
+    },
+    {
+      "category": "messaging",
+      "funded_year": 2009,
+      "total_raised_amount": 160020154
+    },
+    {
+      "category": "messaging",
+      "funded_year": 2010,
+      "total_raised_amount": 667014364
+    },
+    {
+      "category": "messaging",
+      "funded_year": 2011,
+      "total_raised_amount": 307703604
+    },
+    {
+      "category": "messaging",
+      "funded_year": 2012,
+      "total_raised_amount": 162073442
+    },
+    {
+      "category": "messaging",
+      "funded_year": 2013,
+      "total_raised_amount": 216694963
+    },
+    {
+      "category": "mobile",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "mobile",
+      "funded_year": 1984,
+      "total_raised_amount": 100000
+    },
+    {
+      "category": "mobile",
+      "funded_year": 1999,
+      "total_raised_amount": 15500000
+    },
+    {
+      "category": "mobile",
+      "funded_year": 2000,
+      "total_raised_amount": 58000000
+    },
+    {
+      "category": "mobile",
+      "funded_year": 2001,
+      "total_raised_amount": 82891364
+    },
+    {
+      "category": "mobile",
+      "funded_year": 2002,
+      "total_raised_amount": 77853932
+    },
+    {
+      "category": "mobile",
+      "funded_year": 2003,
+      "total_raised_amount": 121529041
+    },
+    {
+      "category": "mobile",
+      "funded_year": 2004,
+      "total_raised_amount": 157953340
+    },
+    {
+      "category": "mobile",
+      "funded_year": 2005,
+      "total_raised_amount": 1092558075
+    },
+    {
+      "category": "mobile",
+      "funded_year": 2006,
+      "total_raised_amount": 1704214362
+    },
+    {
+      "category": "mobile",
+      "funded_year": 2007,
+      "total_raised_amount": 1725803674
+    },
+    {
+      "category": "mobile",
+      "funded_year": 2008,
+      "total_raised_amount": 5728296511
+    },
+    {
+      "category": "mobile",
+      "funded_year": 2009,
+      "total_raised_amount": 4002604570
+    },
+    {
+      "category": "mobile",
+      "funded_year": 2010,
+      "total_raised_amount": 1709668829
+    },
+    {
+      "category": "mobile",
+      "funded_year": 2011,
+      "total_raised_amount": 2912363299
+    },
+    {
+      "category": "mobile",
+      "funded_year": 2012,
+      "total_raised_amount": 7056318032
+    },
+    {
+      "category": "mobile",
+      "funded_year": 2013,
+      "total_raised_amount": 3430373638
+    },
+    {
+      "category": "music",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "music",
+      "funded_year": 2000,
+      "total_raised_amount": 1500000
+    },
+    {
+      "category": "music",
+      "funded_year": 2004,
+      "total_raised_amount": 10800000
+    },
+    {
+      "category": "music",
+      "funded_year": 2005,
+      "total_raised_amount": 12905993
+    },
+    {
+      "category": "music",
+      "funded_year": 2006,
+      "total_raised_amount": 25167994
+    },
+    {
+      "category": "music",
+      "funded_year": 2007,
+      "total_raised_amount": 80100191
+    },
+    {
+      "category": "music",
+      "funded_year": 2008,
+      "total_raised_amount": 131914275
+    },
+    {
+      "category": "music",
+      "funded_year": 2009,
+      "total_raised_amount": 385504520
+    },
+    {
+      "category": "music",
+      "funded_year": 2010,
+      "total_raised_amount": 115923418
+    },
+    {
+      "category": "music",
+      "funded_year": 2011,
+      "total_raised_amount": 440855251
+    },
+    {
+      "category": "music",
+      "funded_year": 2012,
+      "total_raised_amount": 379838983
+    },
+    {
+      "category": "music",
+      "funded_year": 2013,
+      "total_raised_amount": 470558397
+    },
+    {
+      "category": "nanotech",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "nanotech",
+      "funded_year": 2001,
+      "total_raised_amount": 6000000
+    },
+    {
+      "category": "nanotech",
+      "funded_year": 2003,
+      "total_raised_amount": 15500000
+    },
+    {
+      "category": "nanotech",
+      "funded_year": 2005,
+      "total_raised_amount": 127396000
+    },
+    {
+      "category": "nanotech",
+      "funded_year": 2006,
+      "total_raised_amount": 139960000
+    },
+    {
+      "category": "nanotech",
+      "funded_year": 2007,
+      "total_raised_amount": 75000000
+    },
+    {
+      "category": "nanotech",
+      "funded_year": 2008,
+      "total_raised_amount": 364274709
+    },
+    {
+      "category": "nanotech",
+      "funded_year": 2009,
+      "total_raised_amount": 380695286
+    },
+    {
+      "category": "nanotech",
+      "funded_year": 2010,
+      "total_raised_amount": 164536131
+    },
+    {
+      "category": "nanotech",
+      "funded_year": 2011,
+      "total_raised_amount": 258306737
+    },
+    {
+      "category": "nanotech",
+      "funded_year": 2012,
+      "total_raised_amount": 418921258
+    },
+    {
+      "category": "nanotech",
+      "funded_year": 2013,
+      "total_raised_amount": 209700295
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 1987,
+      "total_raised_amount": 2500000
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 1995,
+      "total_raised_amount": 2000000
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 1996,
+      "total_raised_amount": 8000000
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 1997,
+      "total_raised_amount": 5000000
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 1998,
+      "total_raised_amount": 35000000
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 1999,
+      "total_raised_amount": 7500000
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 2000,
+      "total_raised_amount": 69155000
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 2001,
+      "total_raised_amount": 95800000
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 2002,
+      "total_raised_amount": 31500000
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 2003,
+      "total_raised_amount": 72000000
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 2004,
+      "total_raised_amount": 19500000
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 2005,
+      "total_raised_amount": 413496060
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 2006,
+      "total_raised_amount": 566180762
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 2007,
+      "total_raised_amount": 914741067
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 2008,
+      "total_raised_amount": 1836852164
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 2009,
+      "total_raised_amount": 989471977
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 2010,
+      "total_raised_amount": 1606850185
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 2011,
+      "total_raised_amount": 1561857639
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 2012,
+      "total_raised_amount": 2525462806
+    },
+    {
+      "category": "network_hosting",
+      "funded_year": 2013,
+      "total_raised_amount": 1590334072
+    },
+    {
+      "category": "news",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "news",
+      "funded_year": 2004,
+      "total_raised_amount": 3000000
+    },
+    {
+      "category": "news",
+      "funded_year": 2005,
+      "total_raised_amount": 25020552
+    },
+    {
+      "category": "news",
+      "funded_year": 2006,
+      "total_raised_amount": 283186068
+    },
+    {
+      "category": "news",
+      "funded_year": 2007,
+      "total_raised_amount": 222802779
+    },
+    {
+      "category": "news",
+      "funded_year": 2008,
+      "total_raised_amount": 201064492
+    },
+    {
+      "category": "news",
+      "funded_year": 2009,
+      "total_raised_amount": 521804738
+    },
+    {
+      "category": "news",
+      "funded_year": 2010,
+      "total_raised_amount": 497581999
+    },
+    {
+      "category": "news",
+      "funded_year": 2011,
+      "total_raised_amount": 340810207
+    },
+    {
+      "category": "news",
+      "funded_year": 2012,
+      "total_raised_amount": 196418570
+    },
+    {
+      "category": "news",
+      "funded_year": 2013,
+      "total_raised_amount": 888036821
+    },
+    {
+      "category": "nonprofit",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "nonprofit",
+      "funded_year": 2007,
+      "total_raised_amount": 2350000
+    },
+    {
+      "category": "nonprofit",
+      "funded_year": 2008,
+      "total_raised_amount": 8200000
+    },
+    {
+      "category": "nonprofit",
+      "funded_year": 2009,
+      "total_raised_amount": 10205740
+    },
+    {
+      "category": "nonprofit",
+      "funded_year": 2010,
+      "total_raised_amount": 44445500
+    },
+    {
+      "category": "nonprofit",
+      "funded_year": 2011,
+      "total_raised_amount": 90537976
+    },
+    {
+      "category": "nonprofit",
+      "funded_year": 2012,
+      "total_raised_amount": 109972039
+    },
+    {
+      "category": "nonprofit",
+      "funded_year": 2013,
+      "total_raised_amount": 170069557
+    },
+    {
+      "category": "other",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "other",
+      "funded_year": 1996,
+      "total_raised_amount": 3930000
+    },
+    {
+      "category": "other",
+      "funded_year": 1997,
+      "total_raised_amount": 2520000
+    },
+    {
+      "category": "other",
+      "funded_year": 1998,
+      "total_raised_amount": 200000
+    },
+    {
+      "category": "other",
+      "funded_year": 1999,
+      "total_raised_amount": 1500000
+    },
+    {
+      "category": "other",
+      "funded_year": 2000,
+      "total_raised_amount": 34562399
+    },
+    {
+      "category": "other",
+      "funded_year": 2001,
+      "total_raised_amount": 18129295
+    },
+    {
+      "category": "other",
+      "funded_year": 2002,
+      "total_raised_amount": 23449175
+    },
+    {
+      "category": "other",
+      "funded_year": 2003,
+      "total_raised_amount": 10674849
+    },
+    {
+      "category": "other",
+      "funded_year": 2004,
+      "total_raised_amount": 39000000
+    },
+    {
+      "category": "other",
+      "funded_year": 2005,
+      "total_raised_amount": 203369906
+    },
+    {
+      "category": "other",
+      "funded_year": 2006,
+      "total_raised_amount": 242303800
+    },
+    {
+      "category": "other",
+      "funded_year": 2007,
+      "total_raised_amount": 666261600
+    },
+    {
+      "category": "other",
+      "funded_year": 2008,
+      "total_raised_amount": 512026403
+    },
+    {
+      "category": "other",
+      "funded_year": 2009,
+      "total_raised_amount": 178045088
+    },
+    {
+      "category": "other",
+      "funded_year": 2010,
+      "total_raised_amount": 601670962
+    },
+    {
+      "category": "other",
+      "funded_year": 2011,
+      "total_raised_amount": 433486696
+    },
+    {
+      "category": "other",
+      "funded_year": 2012,
+      "total_raised_amount": 1075759030
+    },
+    {
+      "category": "other",
+      "funded_year": 2013,
+      "total_raised_amount": 1229650662
+    },
+    {
+      "category": "pets",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "pets",
+      "funded_year": 2010,
+      "total_raised_amount": 12910327
+    },
+    {
+      "category": "pets",
+      "funded_year": 2011,
+      "total_raised_amount": 41862751
+    },
+    {
+      "category": "pets",
+      "funded_year": 2012,
+      "total_raised_amount": 24889879
+    },
+    {
+      "category": "pets",
+      "funded_year": 2013,
+      "total_raised_amount": 34344799
+    },
+    {
+      "category": "photo_video",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "photo_video",
+      "funded_year": 2006,
+      "total_raised_amount": 49688000
+    },
+    {
+      "category": "photo_video",
+      "funded_year": 2007,
+      "total_raised_amount": 36450000
+    },
+    {
+      "category": "photo_video",
+      "funded_year": 2008,
+      "total_raised_amount": 57800000
+    },
+    {
+      "category": "photo_video",
+      "funded_year": 2009,
+      "total_raised_amount": 53945279
+    },
+    {
+      "category": "photo_video",
+      "funded_year": 2010,
+      "total_raised_amount": 38501018
+    },
+    {
+      "category": "photo_video",
+      "funded_year": 2011,
+      "total_raised_amount": 47442125
+    },
+    {
+      "category": "photo_video",
+      "funded_year": 2012,
+      "total_raised_amount": 233396491
+    },
+    {
+      "category": "photo_video",
+      "funded_year": 2013,
+      "total_raised_amount": 168482660
+    },
+    {
+      "category": "public_relations",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 1997,
+      "total_raised_amount": 41000000
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 1999,
+      "total_raised_amount": 7513200
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 2000,
+      "total_raised_amount": 50583600
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 2001,
+      "total_raised_amount": 1005000
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 2002,
+      "total_raised_amount": 231300000
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 2003,
+      "total_raised_amount": 20000000
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 2004,
+      "total_raised_amount": 35923600
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 2005,
+      "total_raised_amount": 1091878625
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 2006,
+      "total_raised_amount": 752733941
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 2007,
+      "total_raised_amount": 661768303
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 2008,
+      "total_raised_amount": 248544998
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 2009,
+      "total_raised_amount": 1134837694
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 2010,
+      "total_raised_amount": 63339874
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 2011,
+      "total_raised_amount": 197344578
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 2012,
+      "total_raised_amount": 85474694
+    },
+    {
+      "category": "public_relations",
+      "funded_year": 2013,
+      "total_raised_amount": 1483882624
+    },
+    {
+      "category": "real_estate",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "real_estate",
+      "funded_year": 2005,
+      "total_raised_amount": 32770000
+    },
+    {
+      "category": "real_estate",
+      "funded_year": 2006,
+      "total_raised_amount": 34250000
+    },
+    {
+      "category": "real_estate",
+      "funded_year": 2007,
+      "total_raised_amount": 65100000
+    },
+    {
+      "category": "real_estate",
+      "funded_year": 2008,
+      "total_raised_amount": 33750000
+    },
+    {
+      "category": "real_estate",
+      "funded_year": 2009,
+      "total_raised_amount": 38339690
+    },
+    {
+      "category": "real_estate",
+      "funded_year": 2010,
+      "total_raised_amount": 42326359
+    },
+    {
+      "category": "real_estate",
+      "funded_year": 2011,
+      "total_raised_amount": 192938891
+    },
+    {
+      "category": "real_estate",
+      "funded_year": 2012,
+      "total_raised_amount": 199767188
+    },
+    {
+      "category": "real_estate",
+      "funded_year": 2013,
+      "total_raised_amount": 1051442647
+    },
+    {
+      "category": "search",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "search",
+      "funded_year": 1998,
+      "total_raised_amount": 102000
+    },
+    {
+      "category": "search",
+      "funded_year": 1999,
+      "total_raised_amount": 131004000
+    },
+    {
+      "category": "search",
+      "funded_year": 2000,
+      "total_raised_amount": 9300000
+    },
+    {
+      "category": "search",
+      "funded_year": 2001,
+      "total_raised_amount": 25000000
+    },
+    {
+      "category": "search",
+      "funded_year": 2002,
+      "total_raised_amount": 11100000
+    },
+    {
+      "category": "search",
+      "funded_year": 2003,
+      "total_raised_amount": 5072829
+    },
+    {
+      "category": "search",
+      "funded_year": 2004,
+      "total_raised_amount": 171530000
+    },
+    {
+      "category": "search",
+      "funded_year": 2005,
+      "total_raised_amount": 290850000
+    },
+    {
+      "category": "search",
+      "funded_year": 2006,
+      "total_raised_amount": 145977628
+    },
+    {
+      "category": "search",
+      "funded_year": 2007,
+      "total_raised_amount": 393690075
+    },
+    {
+      "category": "search",
+      "funded_year": 2008,
+      "total_raised_amount": 448695795
+    },
+    {
+      "category": "search",
+      "funded_year": 2009,
+      "total_raised_amount": 62887473
+    },
+    {
+      "category": "search",
+      "funded_year": 2010,
+      "total_raised_amount": 136922427
+    },
+    {
+      "category": "search",
+      "funded_year": 2011,
+      "total_raised_amount": 113827974
+    },
+    {
+      "category": "search",
+      "funded_year": 2012,
+      "total_raised_amount": 394560527
+    },
+    {
+      "category": "search",
+      "funded_year": 2013,
+      "total_raised_amount": 771937897
+    },
+    {
+      "category": "security",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "security",
+      "funded_year": 1997,
+      "total_raised_amount": 2000000
+    },
+    {
+      "category": "security",
+      "funded_year": 1999,
+      "total_raised_amount": 3100048
+    },
+    {
+      "category": "security",
+      "funded_year": 2000,
+      "total_raised_amount": 18211701
+    },
+    {
+      "category": "security",
+      "funded_year": 2003,
+      "total_raised_amount": 4500000
+    },
+    {
+      "category": "security",
+      "funded_year": 2004,
+      "total_raised_amount": 32750000
+    },
+    {
+      "category": "security",
+      "funded_year": 2005,
+      "total_raised_amount": 474240000
+    },
+    {
+      "category": "security",
+      "funded_year": 2006,
+      "total_raised_amount": 496835000
+    },
+    {
+      "category": "security",
+      "funded_year": 2007,
+      "total_raised_amount": 416420800
+    },
+    {
+      "category": "security",
+      "funded_year": 2008,
+      "total_raised_amount": 465367575
+    },
+    {
+      "category": "security",
+      "funded_year": 2009,
+      "total_raised_amount": 581277043
+    },
+    {
+      "category": "security",
+      "funded_year": 2010,
+      "total_raised_amount": 956899003
+    },
+    {
+      "category": "security",
+      "funded_year": 2011,
+      "total_raised_amount": 818657419
+    },
+    {
+      "category": "security",
+      "funded_year": 2012,
+      "total_raised_amount": 1282997503
+    },
+    {
+      "category": "security",
+      "funded_year": 2013,
+      "total_raised_amount": 1565896388
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 1999,
+      "total_raised_amount": 1400000
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 2000,
+      "total_raised_amount": 16866284
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 2001,
+      "total_raised_amount": 12100000
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 2002,
+      "total_raised_amount": 53959151
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 2003,
+      "total_raised_amount": 10526768
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 2004,
+      "total_raised_amount": 98217584
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 2005,
+      "total_raised_amount": 1154437950
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 2006,
+      "total_raised_amount": 1412186786
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 2007,
+      "total_raised_amount": 1342402284
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 2008,
+      "total_raised_amount": 1201425530
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 2009,
+      "total_raised_amount": 971680414
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 2010,
+      "total_raised_amount": 1716419202
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 2011,
+      "total_raised_amount": 1414106135
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 2012,
+      "total_raised_amount": 1074759078
+    },
+    {
+      "category": "semiconductor",
+      "funded_year": 2013,
+      "total_raised_amount": 671022568
+    },
+    {
+      "category": "social",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "social",
+      "funded_year": 2003,
+      "total_raised_amount": 4700000
+    },
+    {
+      "category": "social",
+      "funded_year": 2004,
+      "total_raised_amount": 12500000
+    },
+    {
+      "category": "social",
+      "funded_year": 2005,
+      "total_raised_amount": 32450000
+    },
+    {
+      "category": "social",
+      "funded_year": 2006,
+      "total_raised_amount": 48625000
+    },
+    {
+      "category": "social",
+      "funded_year": 2007,
+      "total_raised_amount": 392668319
+    },
+    {
+      "category": "social",
+      "funded_year": 2008,
+      "total_raised_amount": 393624000
+    },
+    {
+      "category": "social",
+      "funded_year": 2009,
+      "total_raised_amount": 449844602
+    },
+    {
+      "category": "social",
+      "funded_year": 2010,
+      "total_raised_amount": 566728882
+    },
+    {
+      "category": "social",
+      "funded_year": 2011,
+      "total_raised_amount": 2633593740
+    },
+    {
+      "category": "social",
+      "funded_year": 2012,
+      "total_raised_amount": 762371831
+    },
+    {
+      "category": "social",
+      "funded_year": 2013,
+      "total_raised_amount": 1179087846
+    },
+    {
+      "category": "software",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "software",
+      "funded_year": 1960,
+      "total_raised_amount": 2661030
+    },
+    {
+      "category": "software",
+      "funded_year": 1996,
+      "total_raised_amount": 12500
+    },
+    {
+      "category": "software",
+      "funded_year": 1997,
+      "total_raised_amount": 4000000
+    },
+    {
+      "category": "software",
+      "funded_year": 1999,
+      "total_raised_amount": 29476789
+    },
+    {
+      "category": "software",
+      "funded_year": 2000,
+      "total_raised_amount": 238850973
+    },
+    {
+      "category": "software",
+      "funded_year": 2001,
+      "total_raised_amount": 86875595
+    },
+    {
+      "category": "software",
+      "funded_year": 2002,
+      "total_raised_amount": 114744575
+    },
+    {
+      "category": "software",
+      "funded_year": 2003,
+      "total_raised_amount": 169770101
+    },
+    {
+      "category": "software",
+      "funded_year": 2004,
+      "total_raised_amount": 248525160
+    },
+    {
+      "category": "software",
+      "funded_year": 2005,
+      "total_raised_amount": 3610794684
+    },
+    {
+      "category": "software",
+      "funded_year": 2006,
+      "total_raised_amount": 4210644645
+    },
+    {
+      "category": "software",
+      "funded_year": 2007,
+      "total_raised_amount": 4388604608
+    },
+    {
+      "category": "software",
+      "funded_year": 2008,
+      "total_raised_amount": 3975323416
+    },
+    {
+      "category": "software",
+      "funded_year": 2009,
+      "total_raised_amount": 2705306431
+    },
+    {
+      "category": "software",
+      "funded_year": 2010,
+      "total_raised_amount": 3966505750
+    },
+    {
+      "category": "software",
+      "funded_year": 2011,
+      "total_raised_amount": 5007385444
+    },
+    {
+      "category": "software",
+      "funded_year": 2012,
+      "total_raised_amount": 5476129329
+    },
+    {
+      "category": "software",
+      "funded_year": 2013,
+      "total_raised_amount": 7490869269
+    },
+    {
+      "category": "sports",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "sports",
+      "funded_year": 2007,
+      "total_raised_amount": 3600000
+    },
+    {
+      "category": "sports",
+      "funded_year": 2008,
+      "total_raised_amount": 18700000
+    },
+    {
+      "category": "sports",
+      "funded_year": 2009,
+      "total_raised_amount": 17986999
+    },
+    {
+      "category": "sports",
+      "funded_year": 2010,
+      "total_raised_amount": 47007440
+    },
+    {
+      "category": "sports",
+      "funded_year": 2011,
+      "total_raised_amount": 50521285
+    },
+    {
+      "category": "sports",
+      "funded_year": 2012,
+      "total_raised_amount": 82357034
+    },
+    {
+      "category": "sports",
+      "funded_year": 2013,
+      "total_raised_amount": 42533229
+    },
+    {
+      "category": "transportation",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "transportation",
+      "funded_year": 2002,
+      "total_raised_amount": 4704370
+    },
+    {
+      "category": "transportation",
+      "funded_year": 2005,
+      "total_raised_amount": 11390000
+    },
+    {
+      "category": "transportation",
+      "funded_year": 2006,
+      "total_raised_amount": 134315455
+    },
+    {
+      "category": "transportation",
+      "funded_year": 2007,
+      "total_raised_amount": 17758312
+    },
+    {
+      "category": "transportation",
+      "funded_year": 2008,
+      "total_raised_amount": 36331320
+    },
+    {
+      "category": "transportation",
+      "funded_year": 2009,
+      "total_raised_amount": 170285218
+    },
+    {
+      "category": "transportation",
+      "funded_year": 2010,
+      "total_raised_amount": 218539513
+    },
+    {
+      "category": "transportation",
+      "funded_year": 2011,
+      "total_raised_amount": 491967744
+    },
+    {
+      "category": "transportation",
+      "funded_year": 2012,
+      "total_raised_amount": 125404868
+    },
+    {
+      "category": "transportation",
+      "funded_year": 2013,
+      "total_raised_amount": 477711225
+    },
+    {
+      "category": "travel",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "travel",
+      "funded_year": 2003,
+      "total_raised_amount": 2000000
+    },
+    {
+      "category": "travel",
+      "funded_year": 2005,
+      "total_raised_amount": 49000000
+    },
+    {
+      "category": "travel",
+      "funded_year": 2006,
+      "total_raised_amount": 178000000
+    },
+    {
+      "category": "travel",
+      "funded_year": 2007,
+      "total_raised_amount": 18473709
+    },
+    {
+      "category": "travel",
+      "funded_year": 2008,
+      "total_raised_amount": 337965000
+    },
+    {
+      "category": "travel",
+      "funded_year": 2009,
+      "total_raised_amount": 65438240
+    },
+    {
+      "category": "travel",
+      "funded_year": 2010,
+      "total_raised_amount": 157242834
+    },
+    {
+      "category": "travel",
+      "funded_year": 2011,
+      "total_raised_amount": 501801734
+    },
+    {
+      "category": "travel",
+      "funded_year": 2012,
+      "total_raised_amount": 485693502
+    },
+    {
+      "category": "travel",
+      "funded_year": 2013,
+      "total_raised_amount": 672271756
+    },
+    {
+      "category": "web",
+      "funded_year": null,
+      "total_raised_amount": null
+    },
+    {
+      "category": "web",
+      "funded_year": 1984,
+      "total_raised_amount": 41000
+    },
+    {
+      "category": "web",
+      "funded_year": 1995,
+      "total_raised_amount": 6800000
+    },
+    {
+      "category": "web",
+      "funded_year": 1996,
+      "total_raised_amount": 1600000
+    },
+    {
+      "category": "web",
+      "funded_year": 1997,
+      "total_raised_amount": 10000000
+    },
+    {
+      "category": "web",
+      "funded_year": 1998,
+      "total_raised_amount": 15100000
+    },
+    {
+      "category": "web",
+      "funded_year": 1999,
+      "total_raised_amount": 76660000
+    },
+    {
+      "category": "web",
+      "funded_year": 2000,
+      "total_raised_amount": 310852000
+    },
+    {
+      "category": "web",
+      "funded_year": 2001,
+      "total_raised_amount": 132400000
+    },
+    {
+      "category": "web",
+      "funded_year": 2002,
+      "total_raised_amount": 54045650
+    },
+    {
+      "category": "web",
+      "funded_year": 2003,
+      "total_raised_amount": 55991911
+    },
+    {
+      "category": "web",
+      "funded_year": 2004,
+      "total_raised_amount": 311198397
+    },
+    {
+      "category": "web",
+      "funded_year": 2005,
+      "total_raised_amount": 1487292670
+    },
+    {
+      "category": "web",
+      "funded_year": 2006,
+      "total_raised_amount": 1256715985
+    },
+    {
+      "category": "web",
+      "funded_year": 2007,
+      "total_raised_amount": 1975018557
+    },
+    {
+      "category": "web",
+      "funded_year": 2008,
+      "total_raised_amount": 2686688175
+    },
+    {
+      "category": "web",
+      "funded_year": 2009,
+      "total_raised_amount": 875706872
+    },
+    {
+      "category": "web",
+      "funded_year": 2010,
+      "total_raised_amount": 1348957725
+    },
+    {
+      "category": "web",
+      "funded_year": 2011,
+      "total_raised_amount": 3371638500
+    },
+    {
+      "category": "web",
+      "funded_year": 2012,
+      "total_raised_amount": 1251245099
+    },
+    {
+      "category": "web",
+      "funded_year": 2013,
+      "total_raised_amount": 3280609976
+    }
+  ]
+}
