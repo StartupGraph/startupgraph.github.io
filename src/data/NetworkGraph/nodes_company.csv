@@ -1,0 +1,89 @@
+id,name,logo,logoAspectRatio,relations
+c:1088,Tumblr,1372v3-max-250x250.png,3.8182,3
+c:113,Yelp,2263v12-max-250x250.png,2.4167,7
+c:12,Twitter,c-12.png,1.2315,14
+c:12352,SolarCity,28038v1-max-250x250.png,3.0308,1
+c:1242,Microsoft,c-1242.png,4.7170,22
+c:1438,Shutterfly,2266v8-max-250x250.png,2.9375,1
+c:161,Pandora Media,c-161.png,7.2727,1
+c:1640,American Express,22002v1-max-250x250.png,1.0204,1
+c:1654,Apple,c-1654.png,1.0000,37
+c:1680,Tesla Motors,c-1680.png,5.5172,2
+c:174,Eventbrite,c-174.png,3.2323,4
+c:176,LinkedIn,11055v23-max-250x250.png,2.2059,3
+c:17897,Ginger Software,34997v4-max-250x250.png,1.7500,1
+c:1812,Zynga,3187v10-max-250x250.jpg,2.9891,2
+c:183,Box,c-183.png,1.8997,3
+c:1972,Salesforce,c-1972.png,1.4159,5
+c:197969,Medium,c-197969.png,5.0794,1
+c:20,eBay,3625v1-max-250x250.png,2.4138,9
+c:20303,Foursquare,c-20303.png,4.7059,3
+c:2034,Craigslist,12301v1-max-250x250.png,3.2564,1
+c:213123,Oculus VR,264704v1-max-250x250.png,5.0000,2
+c:22784,Square,68147v18-max-250x250.png,4.0000,4
+c:2312,HomeAway,12422v5-max-250x250.jpg,4.0000,1
+c:2335,Netflix,c-2335.png,3.7313,1
+c:250,New York Times,10591v1-max-250x250.png,5.3288,1
+c:2519,Evernote,c-2519.png,3.9669,2
+c:2602,Dell,13510v5-max-250x250.png,1.0000,2
+c:2680,Oracle Corporation,17825v1-max-250x250.png,2.9259,5
+c:28,Cisco,c-28.png,1.7778,4
+c:283,Adobe Systems,c-283.png,2.7119,2
+c:28718,Asana,67462v8-max-250x250.png,3.9683,4
+c:29,Yahoo!,10836v12-max-250x250.png,3.8378,34
+c:29025,Walmart,65463v1-max-250x250.png,2.3387,1
+c:30839,Yahoo! Taiwan,58498v3-max-250x250.png,2.5532,1
+c:31006,Palantir Technologies,73542v3-max-250x250.png,4.1417,6
+c:3133,Sony Mobile Communications,31422v3-max-250x250.jpg,2.3596,1
+c:317,Amazon,3898v1-max-250x250.jpg,2.2472,5
+c:3246,IBM,21370v1-max-250x250.png,2.5000,2
+c:333,PayPal,c-333.png,2.9091,18
+c:33987,SpaceX,c-33987.png,8.1356,1
+c:351,AOL,4003v5-max-250x250.png,1.7755,3
+c:355,HP,c-355.png,1.0000,3
+c:39169,Quora,72415v4-max-250x250.png,1.0000,1
+c:396,News Corp,15110v2-max-250x250.png,3.8609,1
+c:41370,Piazza,76070v8-max-250x250.png,2.7763,1
+c:42053,Path,c-42053.png,2.6596,1
+c:424,Akamai Technologies,4285v1-max-250x250.png,2.3333,4
+c:425,Dropbox,11969v19-max-250x250.png,2.6082,2
+c:4283,GitHub,17208v9-max-250x250.png,3.7364,1
+c:43233,Instagram,211498v1-max-250x250.png,1.0000,1
+c:4731,Android,41621v19-max-250x250.png,7.1250,1
+c:47368,Flipboard,c-47368.png,0.7958,1
+c:479,Sun Microsystems,16586v2-max-250x250.png,2.0930,23
+c:494,MySpace,4414v80-max-250x250.png,4.8077,2
+c:5,Facebook,c-5.png,5.1613,33
+c:5000,Netscape,27667v1-max-250x250.png,3.7037,6
+c:50890,Uber,c-50890.png,4.8000,9
+c:5182,Autodesk,22543v1-max-250x250.png,4.2571,1
+c:5394,Samsung Electronics,c-5394.png,2.9394,1
+c:5443,deviantART,18699v9-max-250x250.jpg,2.6000,3
+c:5581,Boeing,22591v1-max-250x250.png,2.7586,1
+c:57403,WhatsApp,c-57403.png,3.8095,1
+c:5744,Accenture,19509v2-max-250x250.png,2.8421,2
+c:58846,Pinterest,174502v6-max-250x250.png,1.0000,1
+c:59,Google,c-59.png,3.4043,110
+c:590,AT&T,10875v1-max-250x250.png,1.9875,3
+c:5990,VMware,19593v2-max-250x250.png,2.7727,3
+c:6015,Plurk,19619v1-max-250x250.png,3.3333,2
+c:62,Skype,c-62.png,2.2695,1
+c:63,YouTube,c-63.png,2.3881,7
+c:68,Ustream,171425v4-max-250x250.png,4.5455,1
+c:70139,Cloud9 IDE,124511v3-max-250x250.png,1.0594,1
+c:714,Behance,c-714.png,5.0000,2
+c:720,hulu,11061v15-max-250x250.png,3.0405,1
+c:726,AdMob,172v7-max-250x250.png,1.8935,5
+c:7299,Photobucket,21122v4-max-250x250.png,5.9700,1
+c:731,MySQL,c-731.png,1.9231,1
+c:7913,IDEO,21606v1-max-250x250.png,3.0500,2
+c:79665,Codeship,140094v8-max-250x250.png,4.1522,1
+c:8091,Bloomberg,21883v1-max-250x250.png,4.0714,1
+c:823,Nokia,17958v3-max-250x250.png,2.4000,1
+c:8235,Zendesk,22043v1-max-250x250.png,3.3529,3
+c:83692,Crashlytics,157982v2-max-250x250.png,1.9204,1
+c:874,Jawbone,526v3-max-250x250.png,2.4912,1
+c:900,Mozilla,c-900.png,3.5556,2
+c:9045,Atari,56425v1-max-250x250.jpg,2.7167,1
+c:9049,Airbnb,c-9049.png,3.2000,5
+c:9743,Palo Alto Networks,23816v1-max-250x250.png,4.2955,1
