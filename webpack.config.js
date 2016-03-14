@@ -16,7 +16,7 @@ var config = {
   output: {
     path: path.join(__dirname, "build"),
     filename: "bundle.js",
-    publicPath: "/",
+    publicPath: "/StartupGraph/",
     devtoolModuleFilenameTemplate: "/[absolute-resource-path]"
   },
   resolve: {
@@ -58,7 +58,7 @@ var config = {
       },
       {
         test: /\.(ttf|eot|svg|woff(2)?)($|\?)/i,
-        loader: "url?limit=10000&minetype=application/font-woff"
+        loader: "url?name=fonts/[name].[ext]&limit=10000&minetype=application/font-woff"
       },
       {
         test: /\.scss$/i,
