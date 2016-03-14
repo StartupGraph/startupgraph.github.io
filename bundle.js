@@ -54,7 +54,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "b06058971adcf7eb8940"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "9c86a5abd5bc2fc1037e"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
 /******/ 	
@@ -29053,7 +29053,7 @@
 
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-	var Store = (0, _redux.createStore)(_Reducers.combinedReducer, _Reducers.initialState, (0, _redux.compose)((0, _redux.applyMiddleware)(_reduxThunk2.default), window.devToolsExtension ? window.devToolsExtension() : undefined));
+	var Store = (0, _redux.createStore)(_Reducers.combinedReducer, _Reducers.initialState, (0, _redux.applyMiddleware)(_reduxThunk2.default));
 
 	exports.default = Store;
 
