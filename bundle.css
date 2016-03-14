@@ -11,8 +11,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url(/32400f4e08932a94d8bfd2422702c446.eot);
-  src: url(/32400f4e08932a94d8bfd2422702c446.eot?#iefix&v=4.5.0) format('embedded-opentype'), url(/db812d8a70a4e88e888744c1c9a27e89.woff2) format('woff2'), url(/a35720c2fed2c7f043bc7e4ffb45e073.woff) format('woff'), url(/a3de2170e4e9df77161ea5d3f31b2668.ttf) format('truetype'), url(/f775f9cca88e21d45bebe185b27c0e5b.svg#fontawesomeregular) format('svg');
+  src: url(/StartupGraph/fonts/fontawesome-webfont.eot);
+  src: url(/StartupGraph/fonts/fontawesome-webfont.eot?#iefix&v=4.5.0) format('embedded-opentype'), url(/StartupGraph/fonts/fontawesome-webfont.woff2) format('woff2'), url(/StartupGraph/fonts/fontawesome-webfont.woff) format('woff'), url(/StartupGraph/fonts/fontawesome-webfont.ttf) format('truetype'), url(/StartupGraph/fonts/fontawesome-webfont.svg#fontawesomeregular) format('svg');
   font-weight: normal;
   font-style: normal;
 }
